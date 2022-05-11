@@ -4,7 +4,7 @@ A simple landing page for Moringa school.
 ## Description
 This is a simple static website page for Moringa school bootcamp.It explains in details what the bootcamp school is about and their staffs.
 ## Known Bugs
-The page has no bugs since it's in its early development stage. 
+The page has no bugs since its early development stage. 
 ## Technologies Used
 Code editor used is vs code and the website is written in HTML & CSS only.
 ## How to clone this web page
